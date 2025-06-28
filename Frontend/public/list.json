@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "The Wandering Light",
+    "title": "A poetic exploration of nature’s forgotten corners",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mastering JavaScript",
+    "title": "Your ultimate guide to becoming a frontend expert",
+    "price": 450,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sketches of Solitude",
+    "title": "Short stories capturing the beauty of being alone",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Beyond the Code",
+    "title": "Philosophical musings from a software engineer",
+    "price": 399,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Art of Slow Living",
+    "title": "A gentle guide to mindful, meaningful living",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Urban Legends Unveiled",
+    "title": "True stories and myths from the heart of the city",
+    "price": 280,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Code & Coffee",
+    "title": "A relaxed approach to learning programming basics",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hidden Trails",
+    "title": "Discovering the unknown paths across India",
+    "price": 349,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Introvert’s Power",
+    "title": "Why quiet people can lead loud revolutions",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Startup Playbook",
+    "title": "How to build and scale your first tech company",
+    "price": 520,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mind Gym",
+    "title": "Daily mental workouts to sharpen your brain",
+    "price": 300,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rain in Autumn",
+    "title": "A novella about love, loss, and a forgotten season",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Productivity Hacks",
+    "title": "Science-backed techniques to get more done",
+    "price": 275,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Bits of History",
+    "title": "Lesser-known facts from world history",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Mindset Shift",
+    "title": "How to build resilience and stay positive",
+    "price": 200,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tales from the Village",
+    "title": "Children’s short stories inspired by rural India",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Budget Traveler",
+    "title": "How to travel the world on a tight budget",
+    "price": 175,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Stories for the Soul",
+    "title": "Spiritual reflections and meditative fables",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Digital Detox",
+    "title": "Steps to break free from the screen and reconnect",
+    "price": 220,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Simple Science",
+    "title": "Fun experiments and facts for curious minds",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg"
+  }
+]
